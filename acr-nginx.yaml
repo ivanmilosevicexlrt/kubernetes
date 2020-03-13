@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: imilosevic.azurecr.io/demo/nginx:latest
+        image: imilosevic.azurecr.io/demo/nginx:_BN_
         ports:
         - containerPort: 80
